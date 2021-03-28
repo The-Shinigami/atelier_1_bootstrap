@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.nav-link {
+  color: black !important;
+
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav-link:hover {
+  color: black !important;
+}
+
+.jumbotron {
+  height: 40vh;
+  background-image: url(../img/1000px-Pano_Manhattan2007_amk.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.appeal {
+  font-size: 3rem;
+  background-color: rgba(243, 232, 232, 0.5);
+}
+
+figure img {
+  margin: 0 auto;
+}
+
+.bg {
+  color: black;
+  background-color: #DEB887;
+}
+
+.fa-color {
+  color: black;
+}
